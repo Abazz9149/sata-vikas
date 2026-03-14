@@ -1,0 +1,5 @@
+C:/Users/sarvagya-institute/Desktop/Mustafa Unity Projects/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/5g404v2o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/sarvagya-institute/Desktop/Mustafa Unity Projects/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/5g404v2o/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/sarvagya-institute/Desktop/Mustafa Unity Projects/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/5g404v2o/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/sarvagya-institute/Desktop/Mustafa Unity Projects/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/5g404v2o/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/sarvagya-institute/Desktop/Mustafa Unity Projects/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/5g404v2o/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

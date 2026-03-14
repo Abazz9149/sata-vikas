@@ -1,0 +1,5 @@
+C:/Users/Mohd Shahid/Downloads/Sata-Vikas (New)/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/dh6m3a22/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Mohd Shahid/Downloads/Sata-Vikas (New)/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/dh6m3a22/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Mohd Shahid/Downloads/Sata-Vikas (New)/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/dh6m3a22/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Mohd Shahid/Downloads/Sata-Vikas (New)/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/dh6m3a22/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Mohd Shahid/Downloads/Sata-Vikas (New)/Sata-Vikas (New)/Sata-Vikas/.utmp/RelWithDebInfo/dh6m3a22/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

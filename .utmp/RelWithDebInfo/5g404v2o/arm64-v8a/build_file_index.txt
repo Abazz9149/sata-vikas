@@ -1,0 +1,2 @@
+C:\Users\sarvagya-institute\Desktop\Mustafa Unity Projects\Sata-Vikas (New)\Sata-Vikas\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\sarvagya-institute\Desktop\Mustafa Unity Projects\Sata-Vikas (New)\Sata-Vikas\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
